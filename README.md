@@ -1,14 +1,16 @@
 # kodluyoruzilkrepo
 Kodluyoruz Front-end eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası , bir adet de index.html barındırıyor. 
 
+![Lorem Pıcsum Gorsel](https://picsum.photos/200/300)
+
 # Installation
 Öncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız link gelicek)
-`[](git clone https://github.com/melodii13/kodluyoruzilkrepo.git)`
+>git clone https://github.com/melodii13/kodluyoruzilkrepo.git
 
 # Usage
 projeyi cloneladıktan sonra Visual Studio Code programında açınız 
 Linux için : 
-`cd kodluyoruzilkrepo code .`
+>cd kodluyoruzilkrepo code .
 
 # Contributing 
 
