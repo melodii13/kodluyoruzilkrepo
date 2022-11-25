@@ -5,12 +5,12 @@ Kodluyoruz Front-end eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet
 
 # Installation
 Öncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız link gelicek)
-`git clone https://github.com/melodii13/kodluyoruzilkrepo.git`
+>git clone https://github.com/melodii13/kodluyoruzilkrepo.git
 
 # Usage
 projeyi cloneladıktan sonra Visual Studio Code programında açınız 
 Linux için : 
-`cd kodluyoruzilkrepo code .`
+>cd kodluyoruzilkrepo code .
 
 # Contributing 
 
